@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/herrntsu/herrntsu/assets/137177225/34d253ec-ea9f-4ba3-942f-804c7962aee5)## Hi there 👋
 
 <!--
 **herrntsu/herrntsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# [Rull, Brent Harvey B,] (https://www.credly.com/users/brent-harvey-rull)
+![ALT TEXT] (image(2).png)
