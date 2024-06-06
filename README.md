@@ -1,4 +1,4 @@
-![image](https://github.com/herrntsu/herrntsu/assets/137177225/34d253ec-ea9f-4ba3-942f-804c7962aee5)## Hi there 👋
+## Hi there 👋
 
 <!--
 **herrntsu/herrntsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
