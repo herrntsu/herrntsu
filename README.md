@@ -1,2 +1,2 @@
-# [Rull, Brent Harvey B,](https://www.credly.com/users/brent-harvey-rull)
+#(https://www.credly.com/users/brent-harvey-rull)
 ![ALT TEXT](it-specialist-databases.png)
